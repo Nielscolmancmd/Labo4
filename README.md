@@ -1,7 +1,7 @@
 # LaboReeks Git
 ## **Labo 4**
 
-In dit vierde labo gaan werken we verder met branches.
+In dit vierde labo werken we verder met branches.
 We verkennen ook de Pull Requests die je kan maken om branches te mergen via GitHub.
 
 #### **Aanvullende toets op Leho**
