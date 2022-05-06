@@ -101,6 +101,7 @@ We gaan nu het conflict dat zich voordoet in de tweede Pull Request oplossen zod
 - [ ] Gebruik de gepaste git commando's om de merge af te ronden, waarbij de oplossing van het conflict in de lokale geschiedenis belandt.
 
 - [ ] Synchroniseer de lokale wijzigingen aan de branch **feature/portfolio-submarine** nu ook naar de remote repo.
+- [ ] Verifieer op GitHub dat er in de tweede Pull Request nu geen conflicten meer voorkomen.
 - [ ] Accepteer tenslotte de tweede Pull Request op GitHub zodat **feature/portfolio-submarine** effectief in **dev** wordt gemerged.
 
 ### Afronden labo
