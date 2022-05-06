@@ -11,12 +11,12 @@ Je kan/mag de aanvullende toets steeds afleggen gebruik makend van alle bronnen 
 ### **Labo 4:** *Takenlijst*
 
 - [ ] Open de Git Bash Console op de locatie waar je dit labo wil gaan clonen. Dit kan via een rechtermuisklik op de locatie in kwestie en vervolgens de keuze **Git Bash Here** te selecteren.
->**Tip!** Indien deze optie niet beschikbaar is dan heb je een stap in de aanbevolen installatie in Labo 01 overgeslaan.
+>**Tip!** Indien deze optie niet beschikbaar is dan heb je een stap in de aanbevolen installatie uit de syllabus overgeslaan.
 
 - [ ] Zorg ervoor dat de startsituatie *(deze repository)* van het labo op jouw pc **gecloned** wordt. Maak hiervoor gebruik van het passende git commando. 
 
 - [ ]  Ga **na het clonen** via de console naar de gecloonde repository. Dit kan/mag je uiteraard ook doen door de nieuwe aangemaakt folder aan te klikken en hier opnieuw een Git Bash console te openen via de **Git Bash Here** optie.
->**Tip!** Controleer voor je verder werkte of je al dan niet in de juiste git repository zit! Je kan dit snel visueel vaststellen in je console.
+>**Tip!** Controleer voor je verder werkt of je al dan niet in de juiste git repository zit! Je kan dit snel visueel vaststellen in je console.
 
 ### Deel 1: twee parallele feature branches
 
