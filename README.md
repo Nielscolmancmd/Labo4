@@ -106,24 +106,5 @@ We gaan nu het conflict dat zich voordoet in de tweede Pull Request oplossen zod
 
 ### Afronden labo
 
-- [ ] Ga lokaal naar de **dev** branch en zorg ervoor dat je de laatste wijzigingen vanuit de remote hier binnentrekt.
-- [ ] Na het voltooien van alle taken editeer je deze README.md file.
-      **LET OP!** dit doe je opnieuw in je lokale README.md file!
-      Plaats alle tasks op voltooid door de markup te wijzigen van [ ] naar [x].
->**Tip!** Je kan hier gerust VS Code gaan gebruiken. Deze heeft ook een preview mode om met markdown aan de slag te gaan.
-
-- [ ] Maak gebruik van git commando's om vervolgens deze wijzigingen aan je lokale git repository toe te voegen.
-      Sync de lokale **dev** branch vervolgens naar de remote.
-
-- [ ] Voer hierna onderstaande commandos uit.
-```
-clear
-git branch
-git log --oneline
-```
-
-- [ ] Neem een screenshot van het resultaat. Deze screenshot plaats je in de **lokale** Screenshot folder die je in je labo4 folder staan hebt. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel5** (met extensie naar keuze).
-- [ ] Gebruik de gepaste git commando's om de toegevoegde screenshot lokaal op te nemen in git (op de **dev** branch) en ook naar de remote te syncen.
-
 - [ ] Maak nog een laatste Pull Request op je remote repo die **dev** in **master** wenst te mergen.
 - [ ] Verifieer dat er geen conflicten ontstaan en accepteer de Pull Request.
