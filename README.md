@@ -93,8 +93,7 @@ Hiervoor gebruiken we de **Pull Requests** op GitHub.
 We gaan nu het conflict dat zich voordoet in de tweede Pull Request oplossen zodat **zowel de locked safe als de submarine** in de index.html blijven staan. We willen dus de wijzigingen van beide feature branches behouden en die gewoon onder elkaar plaatsen in de finale merge. We gaan dit conflict **lokaal** oplossen (**NIET** rechtstreeks op GitHub).
 
 - [ ] Ga in je Git Bash console (dus lokaal) naar de branch **feature/portfolio-submarine**.
-- [ ] Merge **dev** in **feature/portfolio-submarine** en maak een screenshot van het gebruikte git commando en de output ervan. Deze screenshot plaats je in de **lokale** Screenshot folder die je in je labo4 folder staan hebt. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel4** (met extensie naar keuze).
->**Tip!** Aangezien we middenin een merge met conflictoplossing zitten, laten we de net toegevoegde screenshot gewoon even staan in de working directory zonder ze al op te nemen in de git geschiedenis. Straks bij het afronden van de merge nemen we deze gewoon mee met de andere aanpassingen.
+- [ ] Merge **dev** in **feature/portfolio-submarine** zodat je ook lokaal het conflict triggert (op je feature branch).
 
 - [ ] Los het conflict nu lokaal op door **zowel de locked safe als de submarine** in de index.html te laten staan (onder elkaar).
 - [ ] Gebruik de gepaste git commando's om de merge af te ronden, waarbij de oplossing van het conflict in de lokale geschiedenis belandt. **Let op:** zorg er hier voor dat ook de zonet toegevoegde vierde screenshot mee opgenomen wordt in de merge commit.
@@ -102,7 +101,7 @@ We gaan nu het conflict dat zich voordoet in de tweede Pull Request oplossen zod
 - [ ] Synchroniseer de lokale wijzigingen aan de branch **feature/portfolio-submarine** nu ook naar de remote repo.
 - [ ] Accepteer tenslotte de tweede Pull Request op GitHub zodat **feature/portfolio-submarine** effectief in **dev** wordt gemerged.
 
-### Deel 5: afronden labo
+### Afronden labo
 
 - [ ] Ga lokaal naar de **dev** branch en zorg ervoor dat je de laatste wijzigingen vanuit de remote hier binnentrekt.
 - [ ] Na het voltooien van alle taken editeer je deze README.md file.
