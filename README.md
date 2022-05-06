@@ -49,7 +49,7 @@ Je kan/mag de aanvullende toets steeds afleggen gebruik makend van alle bronnen 
     </div>
 ```
 
-- [ ] Zorg ervoor dat de wijzigingen aan de index.html opgenomen worden in git. Synchroniseer hierna je lokale repository met je online repository.
+- [ ] Zorg ervoor dat de wijzigingen aan de index.html opgenomen worden in git. Synchroniseer hierna je lokale branch met je online repository.
 >**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
 
 - [ ] Ga naar de **feature/portfolio-submarine** branch en open opnieuw het index.html bestand in een editor naar keuze. 
@@ -69,21 +69,10 @@ Je kan/mag de aanvullende toets steeds afleggen gebruik makend van alle bronnen 
     </div>
 ```
 
-- [ ] Zorg ook hier dat de wijzigingen aan de index.html opgenomen worden in git. Synchroniseer hierna je lokale repository met je online repository.
+- [ ] Zorg ook hier dat de wijzigingen aan de index.html opgenomen worden in git. Synchroniseer hierna je lokale branch met je online repository.
 >**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
 
-- [ ] Ga naar de **dev** branch en voer onderstaande commandos uit.
-```
-clear
-git remote
-git branch
-git log --oneline
-```
-
-- [ ] Neem een screenshot van het resultaat. Deze screenshot plaats je in de **lokale** Screenshot folder die je in je labo4 folder staan hebt. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel1** (met extensie naar keuze).
-
-- [ ] Maak gebruik van passende git commando's om alle lokale bestanden te commiten naar git. **Synchroniseer** vervolgens je lokale repository met de online repository op GitHub.
->**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
+- [ ] Keer terug naar de **dev** branch.
 
 ### Deel 2: mergen via Pull Request
 
