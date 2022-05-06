@@ -86,10 +86,6 @@ Hiervoor gebruiken we de **Pull Requests** op GitHub.
 - [ ] Lokaal bevind je je normaal gezien nog steeds op de **dev** branch. Zo niet: ga dan terug naar de **dev** branch.
 - [ ] Zorg ervoor dat je lokale **dev** branch de wijzigingen vanuit de remote binnenkrijgt.
 
-- [ ] Maak een screenshot van je Pull Request pagina op GitHub, waarop duidelijk te zien is dat de PR werd gemerged en bijgevolg afgesloten is. Deze screenshot plaats je in de **lokale** Screenshot folder die je in je labo4 folder staan hebt. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel2** (met extensie naar keuze).
-
-- [ ] Gebruik de gepaste git commando's om de toegevoegde screenshot lokaal op te nemen in git (op de **dev** branch) en ook naar de remote te syncen.
-
 ### Deel 3: Pull Request met merge conflict
 
 - [ ] Maak een tweede Pull Request, deze keer van de branch **feature/portfolio-submarine** naar **dev**. Hier zal er een conflict ontstaan waardoor de Pull Request niet onmiddelijk aanvaard kan worden.
