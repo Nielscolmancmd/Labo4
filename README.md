@@ -96,6 +96,8 @@ We gaan nu het conflict dat zich voordoet in de tweede Pull Request oplossen zod
 - [ ] Merge **dev** in **feature/portfolio-submarine** zodat je ook lokaal het conflict triggert (op je feature branch).
 
 - [ ] Los het conflict nu lokaal op door **zowel de locked safe als de submarine** in de index.html te laten staan (onder elkaar).
+>**Tip!** Controleer even of de merge gelukt is door de index.html te openen in je browser. Je zou zowel de duikboot als de kluis moeten zien staan in de lijst met portfolio's. Ontbreekt er iets, of is de layout niet correct? Dan heb je in de merge waarschijnlijk een fout gemaakt. Open dan terug je index.html om de fout recht te zetten, tot je het juiste resultaat te zien krijgt.
+
 - [ ] Gebruik de gepaste git commando's om de merge af te ronden, waarbij de oplossing van het conflict in de lokale geschiedenis belandt. **Let op:** zorg er hier voor dat ook de zonet toegevoegde vierde screenshot mee opgenomen wordt in de merge commit.
 
 - [ ] Synchroniseer de lokale wijzigingen aan de branch **feature/portfolio-submarine** nu ook naar de remote repo.
