@@ -90,12 +90,6 @@ Hiervoor gebruiken we de **Pull Requests** op GitHub.
 
 - [ ] Maak een tweede Pull Request, deze keer van de branch **feature/portfolio-submarine** naar **dev**. Hier zal er een conflict ontstaan waardoor de Pull Request niet onmiddelijk aanvaard kan worden.
 
-- [ ] Maak een screenshot van (het deel van) je Pull Request waarop duidelijk te zien is dat er een conflict is en dat de PR bijgevolg niet zomaar kan gemerged worden. Deze screenshot plaats je in de **lokale** Screenshot folder die je in je labo4 folder staan hebt. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel3** (met extensie naar keuze).
-
-- [ ] Gebruik de gepaste git commando's om de toegevoegde screenshot lokaal op te nemen in git (op de **dev** branch) en ook naar de remote te syncen.
-
-### Deel 4: merge conflict oplossen (lokaal)
-
 We gaan nu het conflict dat zich voordoet in de tweede Pull Request oplossen zodat **zowel de locked safe als de submarine** in de index.html blijven staan. We willen dus de wijzigingen van beide feature branches behouden en die gewoon onder elkaar plaatsen in de finale merge. We gaan dit conflict **lokaal** oplossen (**NIET** rechtstreeks op GitHub).
 
 - [ ] Ga in je Git Bash console (dus lokaal) naar de branch **feature/portfolio-submarine**.
