@@ -81,7 +81,7 @@ Hiervoor gebruiken we de **Pull Requests** op GitHub.
 
 - [ ] Maak in je remote repo op GitHub een eerste Pull Request aan die de branch **feature/portfolio-locked-safe** wenst te mergen in **dev**.
  
-- [ ] Verifieer dat er zich geen conflicten voordoen en accepteer de Pull Request, zodat **feature/portfolie-locked-safe** effectief in **dev** wordt gemerged op je remote repo.
+- [ ] Verifieer dat er zich geen conflicten voordoen en accepteer de Pull Request, zodat **feature/portfolio-locked-safe** effectief in **dev** wordt gemerged op je remote repo.
 
 - [ ] Lokaal bevind je je normaal gezien nog steeds op de **dev** branch. Zo niet: ga dan terug naar de **dev** branch.
 - [ ] Zorg ervoor dat je lokale **dev** branch de wijzigingen vanuit de remote binnenkrijgt.
